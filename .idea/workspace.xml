@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6091ebdb-fbdb-4477-9b5d-4fd383dbba4f" name="Default Changelist" comment="HomeWork 1, Task 5">
-      <change afterPath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_1/task_5/WelcomeToProject.class" afterDir="false" />
+    <list default="true" id="6091ebdb-fbdb-4477-9b5d-4fd383dbba4f" name="Default Changelist" comment="rename class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/hw_1/task_5/WelcomeToProject.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1QNrn8svZCJ5kKTKPb871WWRUV2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -113,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567711918829</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="rename class">
+      <created>1567870878624</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567870878624</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HomeWork 1, Task 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork 1, Task 5" />
+    <MESSAGE value="rename class" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename class" />
   </component>
 </project>
