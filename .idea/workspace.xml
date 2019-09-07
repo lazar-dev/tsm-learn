@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6091ebdb-fbdb-4477-9b5d-4fd383dbba4f" name="Default Changelist" comment="">
+    <list default="true" id="6091ebdb-fbdb-4477-9b5d-4fd383dbba4f" name="Default Changelist" comment="HomeWork 1, Task 5">
+      <change afterPath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_1/task_5/WelcomeToProject.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/hw_1/task_5/WelcomeToProject.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WelcomeToProject">
+  <component name="RunManager" selected="Application.WelcomeProject">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.HelloWorld" />
       <module name="tms-01" />
@@ -54,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WelcomeToProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.hw_1.task_5.WelcomeToProject" />
+    <configuration name="WelcomeProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.hw_1.task_5.WelcomeProject" />
       <module name="tms-01" />
       <option name="PROGRAM_PARAMETERS" value="Alex" />
       <extension name="coverage">
@@ -70,11 +72,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.WelcomeToProject" />
+      <item itemvalue="Application.WelcomeProject" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WelcomeToProject" />
+        <item itemvalue="Application.WelcomeProject" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -104,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567711837292</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HomeWork 1, Task 5">
+      <created>1567711918829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567711918829</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
