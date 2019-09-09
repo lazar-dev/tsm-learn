@@ -8,7 +8,7 @@ public class task_7 {
         double myDouble_2 = 2.343434;
         BigDecimal dec_1 = BigDecimal.valueOf(myDouble_1);
         BigDecimal dec_2 = BigDecimal.valueOf(myDouble_2);
-        double result = dec_1.divide(dec_2, 1).doubleValue();
+        double result = dec_1.divide(dec_2, 5).doubleValue();
         System.out.println(result);
     }
 
