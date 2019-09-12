@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6091ebdb-fbdb-4477-9b5d-4fd383dbba4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/hw_3/task_1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/hw_3/task_1/PersonMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/practic/lec_3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/hw_3/task_2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tms-01/com/company/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LearnTSM.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +46,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PersonMain">
-    <configuration name="PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.hw_3.task_1.PersonMain" />
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.hw_3.task_2.Main" />
       <module name="tms-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.hw_3.task_1.*" />
+          <option name="PATTERN" value="com.company.hw_3.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.hw_2.task_6.task_6" />
+    <configuration name="PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.hw_3.task_1.PersonMain" />
       <module name="tms-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.hw_2.task_6.*" />
+          <option name="PATTERN" value="com.company.hw_3.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,19 +113,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.task_6" />
       <item itemvalue="Application.task_7" />
       <item itemvalue="Application.task_8" />
       <item itemvalue="Application.task_9" />
       <item itemvalue="Application.PersonMain" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.PersonMain" />
         <item itemvalue="Application.task_9" />
         <item itemvalue="Application.task_8" />
         <item itemvalue="Application.task_7" />
-        <item itemvalue="Application.task_6" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568055682475</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="HW_3">
+      <created>1568227762621</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568227762621</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,6 +225,7 @@
     <MESSAGE value="Full HW_@" />
     <MESSAGE value="Full HW_2" />
     <MESSAGE value="Fix Task_7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix Task_7" />
+    <MESSAGE value="HW_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_3" />
   </component>
 </project>
