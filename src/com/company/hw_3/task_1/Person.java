@@ -17,7 +17,7 @@ public class Person {
         return name;
     }
 
-    public Integer getAge() {
+    private Integer getAge() {
         return age;
     }
 
