@@ -1,7 +1,7 @@
 package com.company.hw_2.task_7;
 
 import java.math.BigDecimal;
-
+// +
 public class task_7 {
     public static void main(String[] args) {
         double myDouble_1 = 0.234234234;
