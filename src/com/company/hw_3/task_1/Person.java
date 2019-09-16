@@ -25,5 +25,9 @@ public class Person {
     public String toString() {
         String forPrint = "Имя " + getName() + " Возраст " + getAge();
         return forPrint;
+        /*
+        можно так, не ошибка, но короче
+        return "Имя " + getName() + " Возраст " + getAge();
+        */
     }
 }
