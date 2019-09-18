@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6091ebdb-fbdb-4477-9b5d-4fd383dbba4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/hw_4/task_1/SplMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/hw_4/task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/hw_4/task_3/ReplaceMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/hw_4/task_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/hw_4/task_7/Banchmark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/practic/lec_4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/hw_3/task_1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/hw_3/task_1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/hw_4/task_7/Banchmark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/hw_4/task_7/Banchmark.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -228,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1568521486216</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="HW_4">
+      <created>1568823069968</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1568823069969</updated>
+    </task>
+    <task id="LOCAL-00013" summary="HW_4">
+      <created>1568823204404</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568823204404</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,6 +260,7 @@
     <MESSAGE value="HW_3" />
     <MESSAGE value="HW_3 TASK 2" />
     <MESSAGE value="HW_3 TASK 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW_3 TASK 3" />
+    <MESSAGE value="HW_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_4" />
   </component>
 </project>
