@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6091ebdb-fbdb-4477-9b5d-4fd383dbba4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/hw_3/task_3/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/hw_3/task_3/ComputerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/hw_4/task_1/SplMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/hw_4/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/hw_4/task_3/ReplaceMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/hw_4/task_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/hw_4/task_7/Banchmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/practic/lec_4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/hw_3/task_1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/hw_3/task_1/Person.java" afterDir="false" />
     </list>
@@ -53,13 +57,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Banchmark">
+    <configuration name="Banchmark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.hw_4.task_7.Banchmark" />
+      <module name="tms-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.hw_4.task_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.hw_4.task_2.Main" />
+      <module name="tms-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.hw_4.task_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.hw_4.task_4.Main" />
+      <module name="tms-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.hw_4.task_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.hw_3.task_2.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.company.hw_4.task_6.Main" />
       <module name="tms-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.hw_3.task_2.*" />
+          <option name="PATTERN" value="com.company.hw_4.task_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,51 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.hw_3.task_1.PersonMain" />
+    <configuration name="ReplaceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.hw_4.task_3.ReplaceMain" />
       <module name="tms-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.hw_3.task_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.hw_2.task_7.task_7" />
-      <module name="tms-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.hw_2.task_7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.hw_2.task_8.task_8" />
-      <module name="tms-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.hw_2.task_8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.hw_2.task_9.task_9" />
-      <module name="tms-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.hw_2.task_9.*" />
+          <option name="PATTERN" value="com.company.hw_4.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,19 +124,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.task_7" />
-      <item itemvalue="Application.task_8" />
-      <item itemvalue="Application.task_9" />
-      <item itemvalue="Application.PersonMain" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.ReplaceMain" />
+      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Banchmark" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Banchmark" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.PersonMain" />
-        <item itemvalue="Application.task_9" />
-        <item itemvalue="Application.task_8" />
-        <item itemvalue="Application.task_7" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.ReplaceMain" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568269520329</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="HW_3 TASK 3">
+      <created>1568521486216</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568521486216</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +252,7 @@
     <MESSAGE value="Fix Task_7" />
     <MESSAGE value="HW_3" />
     <MESSAGE value="HW_3 TASK 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW_3 TASK 2" />
+    <MESSAGE value="HW_3 TASK 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_3 TASK 3" />
   </component>
 </project>

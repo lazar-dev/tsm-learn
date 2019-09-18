@@ -23,7 +23,9 @@ public class Person {
 
     @Override
     public String toString() {
-        String forPrint = "Имя " + getName() + " Возраст " + getAge();
-        return forPrint;
+        return "Person{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                '}';
     }
 }
