@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6091ebdb-fbdb-4477-9b5d-4fd383dbba4f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/company/hw_4/task_7/Banchmark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/hw_4/task_7/Banchmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/hw_5/task_1/ArrayMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/hw_5/task_1/ArrayMathMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/hw_5/task_2/MaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/hw_5/task_3/Welcom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/hw_5/task_4/PrintDot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/hw_5/task_5/SumN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/hw_5/task_6/MultiplyingN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/hw_5/task_7/Batterfly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_2/task_2/task_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_2/task_2/task_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_2/task_3/task_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_2/task_3/task_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_2/tast_1/task_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_2/tast_1/task_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_3/task_1/PersonMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_3/task_1/PersonMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_3/task_2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_3/task_2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_3/task_3/ComputerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_3/task_3/ComputerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_3/task_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tms-01/com/company/hw_3/task_3/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,9 +48,9 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
@@ -50,13 +65,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Banchmark">
-    <configuration name="Banchmark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.hw_4.task_7.Banchmark" />
+  <component name="RunManager" selected="Application.MultiplyingN">
+    <configuration name="MaxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.hw_5.task_2.MaxMin" />
       <module name="tms-01" />
+      <option name="PROGRAM_PARAMETERS" value="24 15 16 78 13 14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.hw_4.task_7.*" />
+          <option name="PATTERN" value="com.company.hw_5.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.hw_4.task_2.Main" />
+    <configuration name="MultiplyingN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.hw_5.task_6.MultiplyingN" />
       <module name="tms-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.hw_4.task_2.*" />
+          <option name="PATTERN" value="com.company.hw_5.task_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.hw_4.task_4.Main" />
+    <configuration name="PrintDot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.hw_5.task_4.PrintDot" />
       <module name="tms-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.hw_4.task_4.*" />
+          <option name="PATTERN" value="com.company.hw_5.task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.hw_4.task_6.Main" />
+    <configuration name="SumN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.hw_5.task_5.SumN" />
       <module name="tms-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.hw_4.task_6.*" />
+          <option name="PATTERN" value="com.company.hw_5.task_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplaceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.hw_4.task_3.ReplaceMain" />
+    <configuration name="Welcom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.hw_5.task_3.Welcom" />
       <module name="tms-01" />
+      <option name="PROGRAM_PARAMETERS" value="22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.hw_4.task_3.*" />
+          <option name="PATTERN" value="com.company.hw_5.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,19 +134,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.ReplaceMain" />
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Banchmark" />
+      <item itemvalue="Application.MaxMin" />
+      <item itemvalue="Application.Welcom" />
+      <item itemvalue="Application.PrintDot" />
+      <item itemvalue="Application.SumN" />
+      <item itemvalue="Application.MultiplyingN" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Banchmark" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.ReplaceMain" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.MultiplyingN" />
+        <item itemvalue="Application.SumN" />
+        <item itemvalue="Application.PrintDot" />
+        <item itemvalue="Application.Welcom" />
+        <item itemvalue="Application.MaxMin" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568823204404</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="HW_4">
+      <created>1568823275320</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1568823275320</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
