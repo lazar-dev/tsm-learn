@@ -16,6 +16,15 @@ public class Main {
         Word(text, "game");
             }
 
+    // название метода с меленькой буквы начинается
+    // название метода должно быть глаголом, т.е. getCount, например.
+    // Метод должен выполнять 1 действие, т.е. посчитал кол-во и вернул его, а печатать в методе main()
+    /* программа работает некорректно,
+    String text = "While major gameplay components are already in place and functioning major";
+    word(text, "major");
+    Слово: major Встречается в тексте 1 раз.
+    Хотя в конце текста еще один раз + твоя программа не учитывает разный регистр
+    */
     public static void Word(String fulltext, String word){
         String[] str = fulltext.split(word);
         if (str.length>1){
