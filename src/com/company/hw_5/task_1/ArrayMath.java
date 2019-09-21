@@ -4,6 +4,7 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class ArrayMath {
+    // private
     int[] ints;
 
     public ArrayMath(int[] ints) {
