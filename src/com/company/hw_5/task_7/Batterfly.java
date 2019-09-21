@@ -1,26 +1,35 @@
 package com.company.hw_5.task_7;
 
-/*
-у тебя программа очень сильно привязана к исходному массиву, а это очень плохо
-должно быть так - я передаю размер бабочки и программа печатает мне красоту на консоль
-*/
 public class Batterfly {
     public static void main(String[] args) {
-        int[] butterflyNum = {1, 2, 3, 4, 5, 6, 7, 8, 9, 9, 8, 7, 6, 5, 4, 3, 2, 1};
-        for (int i = 0; i < butterflyNum.length; i++) {
-            if (i != butterflyNum[i]) {
-                String butterflyStr = "";
-                // i1 - переименуй
-                for (int i1 : butterflyNum) {
-                    if (i1 <= butterflyNum[i]) {
-                        butterflyStr += String.valueOf(i1);
-                    } else {
-                        butterflyStr += " ";
-                    }
-                }
-                System.out.println(butterflyStr);
+        int[] butterflyNum = createArray(8);
+        printBatterfly(butterflyNum);
+    }
+
+    public static int[] createArray(int n) { //1..9
+        int[] sourceArray = new int[n * 2];
+        for (int i = 0; i < n; i++) {
+            sourceArray[i] = i + 1;
+            sourceArray[(n * 2) - 1 - i] = i + 1;
+        }
+        return sourceArray;
+    }
+
+    public static void printBatterfly(int[] sourceArray) {
+        int k = 0;
+        for (int i = 0; i < sourceArray.length; i++) {
+            if (i != sourceArray[i]) {
+                String line = createLineToPrint(sourceArray, i);
+                System.out.println(line);
             }
         }
+    }
 
+    public static String createLineToPrint(int[] arr, int i) {
+        String lineToPrint = "";
+        for (int j : arr) {
+            lineToPrint = (j <= arr[i]) ? lineToPrint.concat(String.valueOf(j)): lineToPrint.concat(" ");
+        }
+        return lineToPrint;
     }
 }
