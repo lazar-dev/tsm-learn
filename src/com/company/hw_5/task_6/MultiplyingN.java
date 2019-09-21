@@ -1,5 +1,5 @@
 package com.company.hw_5.task_6;
-
+//+
 public class MultiplyingN {
     public static void main(String[] args) {
         int n = 7;
