@@ -1,7 +1,7 @@
 package com.company.hw_5.task_2;
 
 import java.util.Arrays;
-
+//+
 public class MaxMin {
     public static void main(String[] args) {
         //24 15 16 78 13
