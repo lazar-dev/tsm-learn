@@ -1,8 +1,8 @@
 package com.company.hw_6.task_4;
 
 public class Washer {
-    String manufactured;
-    String model;
+    private String manufactured;
+    private String model;
 
     public Washer(String manufactured, String model) {
         this.manufactured = manufactured;

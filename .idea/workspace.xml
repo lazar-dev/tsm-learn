@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6091ebdb-fbdb-4477-9b5d-4fd383dbba4f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/hw_6/task_4/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/hw_6/task_4/Task_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/hw_6/task_4/WashVoltageExceprion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/hw_6/task_4/WashVoltageException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/hw_6/task_4/Washer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/hw_6/task_4/Washer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -273,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569389649632</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="HomeWork 6">
+      <created>1569389785532</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1569389785532</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
