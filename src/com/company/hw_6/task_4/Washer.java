@@ -1,5 +1,6 @@
 package com.company.hw_6.task_4;
 
+// форматируй код
 public class Washer {
     private String manufactured;
     private String model;
@@ -9,6 +10,9 @@ public class Washer {
         this.model = model;
     }
 
+    // метод ран просто запускает стиралку, он может проверять напряжение, но до старта
+    // у тебя в методе мейн должен быть цикл, в котором ты проверяешь напряжение и при его отсутствии генерироровать исключение
+    // я бы так делал
     public void run() throws WashVoltageException {
         System.out.println("Стирка запущена.");
         if(checkVoltage()){
