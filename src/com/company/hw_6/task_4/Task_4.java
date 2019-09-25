@@ -5,7 +5,7 @@ public class Task_4 {
         Washer atlant = new Washer("Atlant", "GS500");
         try{
             atlant.run();
-        }catch (WashVoltageExceprion e){
+        }catch (WashVoltageException e){
             atlant.reserveVoltage();
         }
     }

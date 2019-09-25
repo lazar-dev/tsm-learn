@@ -9,12 +9,12 @@ public class Washer {
         this.model = model;
     }
 
-    public void run() throws WashVoltageExceprion {
+    public void run() throws WashVoltageException {
         System.out.println("Стирка запущена.");
         if(checkVoltage()){
             System.out.println("Все в порядке.");
         }else {
-            throw new WashVoltageExceprion("Запущено резервное питание для слива воды.");
+            throw new WashVoltageException("Запущено резервное питание для слива воды.");
         }
     }
 
