@@ -3,7 +3,7 @@ package com.company.hw_7.task_6;
 import java.io.*;
 import java.util.Arrays;
 
-public class task_7 {
+public class Task_6 {
     private static final String PATH = "src/com/company/hw_7/task_6/cat.jpg";
 
     public static void main(String[] args) {
