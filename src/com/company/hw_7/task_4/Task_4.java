@@ -7,10 +7,15 @@ public class Task_4 {
 
     public static void main(String[] args) {
         Employee firstEmployee = new Employee("Conditer", 1);
+        // ты только что указал данные в конструкторе и сразу их меняешь. Зачем?
         firstEmployee.setPeopleName("Vasya");
         firstEmployee.setPeoleAge("12");
+        
         serializablePerson(firstEmployee, PATH);
+        
         Employee newPerson = (Employee) deSerializablePerson(PATH);
+        
+        // переопредели метод toString() в обоих классах
         System.out.println(String.format("WorkName: %s, Experience: %s, Name: %s, Age: %s",
                 newPerson.getWorkName(),
                 newPerson.getMinimalExperience(),
@@ -18,6 +23,7 @@ public class Task_4 {
                 newPerson.getPeoleAge()));
     }
 
+    // название метода - это глагол (действие), т.е. serializeObject()
     public static void serializablePerson(Object obj, String path) {
         try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(path))) {
             oos.writeObject(obj);
