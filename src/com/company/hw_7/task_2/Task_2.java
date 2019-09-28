@@ -2,6 +2,7 @@ package com.company.hw_7.task_2;
 
 import java.io.*;
 
+//+
 public class Task_2 {
     private static final String PATH = "src/com/company/hw_7/task_2/file.txt";
 
