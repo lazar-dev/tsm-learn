@@ -6,15 +6,14 @@ public class Task_7 {
     private static final String DIRECTORY = "src";
 
     public static void main(String[] args) {
-        getDirectoryPath(DIRECTORY);
+        printDirectoryTree(DIRECTORY);
     }
 
-    public static void getDirectoryPath(String path) {
+    public static void printDirectoryTree(String path) {
         File[] files = new File(path).listFiles();
-
         for (File file : files) {
             System.out.println(file.getAbsolutePath());
-            if(file.isDirectory()) getDirectoryPath(file.getAbsolutePath());
+            if(file.isDirectory()) printDirectoryTree(file.getAbsolutePath());
         }
     }
 }
