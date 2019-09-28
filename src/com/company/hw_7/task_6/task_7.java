@@ -3,7 +3,7 @@ package com.company.hw_7.task_6;
 import java.io.*;
 import java.util.Arrays;
 
-// task_7 -> Task_7
+// task_7 -> Task_7 и это Таск_6 скорее всего
 public class task_7 {
     private static final String PATH = "src/com/company/hw_7/task_6/cat.jpg";
 
