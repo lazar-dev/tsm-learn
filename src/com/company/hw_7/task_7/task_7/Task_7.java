@@ -2,6 +2,7 @@ package com.company.hw_7.task_7.task_7;
 
 import java.io.File;
 
+// у тебя в пакете task_7 лежит еще один пакет task_7
 public class Task_7 {
     private static final String DIRECTORY = "src";
 
@@ -12,11 +13,15 @@ public class Task_7 {
     public static void getDirectoryPath(String path) {
         File[] files = new File(path).listFiles();
 
+        /* у тебя NullPointerException валится, когда ты пытаешь у файла взять listFiles(), для этого есть
+        методы из isFile() и isDirectory(), которыми ты можешь делать нужные проверки
+        */
         for (File file : files) {
             System.out.println(file.getAbsolutePath());
             try {
                 getDirectoryPath(file.getAbsolutePath());
             } catch (NullPointerException e) {
+                // вот так делать нельзя
                 continue;
             }
         }
