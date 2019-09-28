@@ -6,6 +6,7 @@ public class Task_3 {
     private static final String PATH = "src/com/company/hw_7/task_2/file.txt";
 
     public static void main(String[] args) {
+        // BufferedReader read = new BufferedReader(new FileReader(PATH))
         try (BufferedReader read = new BufferedReader(new InputStreamReader(new FileInputStream(PATH)))) {
             String line;
             while ((line = read.readLine()) != null) {
@@ -16,6 +17,6 @@ public class Task_3 {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
+// пустая строка не нужна
     }
 }

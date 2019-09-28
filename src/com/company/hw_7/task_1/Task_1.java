@@ -5,6 +5,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
 
+//+
 public class Task_1 {
     private static final String PATH = "src/com/company/hw_7/task_1/file.txt";
 
