@@ -1,0 +1,11 @@
+package com.company.hw_11.task_1;
+
+public class IterationRunnuble implements Runnable {
+
+    @Override
+    public void run() {
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
+    }
+}
