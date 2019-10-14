@@ -14,7 +14,7 @@ public class Shop {
         synchronized (this) {
             return toys.add(name);
         }
-    }
+    } // здесь нужен абзац между методами
     public int getSize(){
         return toys.size();
     }
