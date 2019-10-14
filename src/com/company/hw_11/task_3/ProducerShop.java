@@ -1,5 +1,6 @@
 package com.company.hw_11.task_3;
 
+// +
 public class ProducerShop implements Runnable {
     private int count;
     private String toyName;
