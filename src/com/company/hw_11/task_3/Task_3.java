@@ -1,5 +1,6 @@
 package com.company.hw_11.task_3;
 
+// +
 public class Task_3 {
     public static void main(String[] args) throws InterruptedException {
         Shop myShop = new Shop();
