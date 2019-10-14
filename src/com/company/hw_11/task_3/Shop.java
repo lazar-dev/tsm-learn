@@ -2,6 +2,7 @@ package com.company.hw_11.task_3;
 
 import java.util.ArrayList;
 
+// +
 public class Shop {
     private ArrayList<String> toys;
 
